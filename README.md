@@ -350,3 +350,12 @@ git help
 git help <command>
 ```
 #### Nasty link
+
+Story continues.
+
+Steps:
+1. one
+2. two
+3. three
+
+Epilogue.
