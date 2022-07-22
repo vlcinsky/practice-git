@@ -1,5 +1,7 @@
 ### :octocat: Git Your Practice On!
 
+Some introductory words.
+
 * 19 Git Tips for Everyday use [http://www.alexkras.com/19-git-tips-for-everyday-use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 * 20 Git Tips for Everyday use [http://www.alexkras.com/19-git-tips-for-everyday-use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 * 21 Git Tips for Everyday use [http://www.alexkras.com/19-git-tips-for-everyday-use](http://www.alexkras.com/19-git-tips-for-everyday-use)
