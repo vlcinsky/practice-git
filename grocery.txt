@@ -2,4 +2,7 @@ junk:
 - j1
 - j2
 diary:
+- d1
+- d2
+- d3
 other:
