@@ -6,3 +6,7 @@ diary:
 - d2
 - d3
 other:
+- o1
+- o2
+- o3
+- o4
