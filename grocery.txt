@@ -1,12 +1,19 @@
 junk:
-- j1
-- j2
+- J1
+- J2
 diary:
-- d1
-- d2
-- d3
+- D1
+- D2
+- D3
 other:
-- o1
-- o2
-- o3
-- o4
+- O1
+- O2
+- O3
+- O4
+super special:
+- S1
+- S2
+- S3
+- S4
+boring stuff:
+- OOOOOH
